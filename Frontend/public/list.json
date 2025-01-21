@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "author": "John Doe",
+        "title": "Heart of Gold",
+        "price": 100,
+        "category": "Life",
+        "image": "https://img.freepik.com/free-vector/flat-design-stack-books-illustration_23-2149337111.jpg?t=st=1737120137~exp=1737123737~hmac=aedf0ed366cbc9561ed963469b930858b8149389f6a1604cea7b377c8e96c1b3&w=740"
+    },
+
+    {
+        "id": 2,
+        "author": "Jane Doe",
+        "title": "Battle of Kings",
+        "price": 100,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/flat-design-stack-books-illustration_23-2149337111.jpg?t=st=1737120137~exp=1737123737~hmac=aedf0ed366cbc9561ed963469b930858b8149389f6a1604cea7b377c8e96c1b3&w=740"
+    },
+
+    {
+        "id": 3,
+        "author": "Jack Black",
+        "title": "Shades of Life",
+        "price": 100,
+        "category": "Life",
+        "image": "https://img.freepik.com/free-vector/flat-design-stack-books-illustration_23-2149337111.jpg?t=st=1737120137~exp=1737123737~hmac=aedf0ed366cbc9561ed963469b930858b8149389f6a1604cea7b377c8e96c1b3&w=740"
+    },
+
+    {
+        "id": 4,
+        "author": "Jack Black",
+        "title": "Maze of Shadows",
+        "price": 100,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/flat-design-stack-books-illustration_23-2149337111.jpg?t=st=1737120137~exp=1737123737~hmac=aedf0ed366cbc9561ed963469b930858b8149389f6a1604cea7b377c8e96c1b3&w=740"
+    },
+
+    {
+        "id": 5,
+        "author": "james Harlot",
+        "title": "Shadow Monarch",
+        "price": 100,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/flat-design-stack-books-illustration_23-2149337111.jpg?t=st=1737120137~exp=1737123737~hmac=aedf0ed366cbc9561ed963469b930858b8149389f6a1604cea7b377c8e96c1b3&w=740"
+    },
+
+    {
+        "id": 6,
+        "author": "Gina Doe",
+        "title": "Blood in Hands",
+        "price": 100,
+        "category": "Action",
+        "image": "https://img.freepik.com/free-vector/flat-design-stack-books-illustration_23-2149337111.jpg?t=st=1737120137~exp=1737123737~hmac=aedf0ed366cbc9561ed963469b930858b8149389f6a1604cea7b377c8e96c1b3&w=740"
+    },
+
+    {
+        "id": 7,
+        "author": "Simon Doe",
+        "title": "The Last Stand",
+        "price": 100,
+        "category": "Thrill",
+        "image": "https://img.freepik.com/free-vector/flat-design-stack-books-illustration_23-2149337111.jpg?t=st=1737120137~exp=1737123737~hmac=aedf0ed366cbc9561ed963469b930858b8149389f6a1604cea7b377c8e96c1b3&w=740"
+    },
+
+    {
+        "id": 8,
+        "author": "Clark Kent",
+        "title": "Man of Steel",
+        "price": 100,
+        "category": "Superhero",
+        "image": "https://img.freepik.com/free-vector/flat-design-stack-books-illustration_23-2149337111.jpg?t=st=1737120137~exp=1737123737~hmac=aedf0ed366cbc9561ed963469b930858b8149389f6a1604cea7b377c8e96c1b3&w=740"
+    }
+]
